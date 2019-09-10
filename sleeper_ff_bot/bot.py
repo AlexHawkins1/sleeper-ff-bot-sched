@@ -1,5 +1,3 @@
-#import schedule
-#import time
 import os
 import pendulum
 import logging
