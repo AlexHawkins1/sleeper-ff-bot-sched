@@ -1,7 +1,7 @@
 pytest==4.6.2
 sleeper-api-wrapper==1.0.7
 pendulum==2.0.5
-requests==2.22.0
+requests==2.31.0
 gspread
 oauth2client
 apscheduler>=3.3.0
